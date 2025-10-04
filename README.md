@@ -4,11 +4,6 @@
 
 An Application for Generating a cooking recipe consist of title, ingredients and instructions from an food image using Deep Learning.
 
-### Demo:
-![Recipe_Generation gif](https://user-images.githubusercontent.com/55757415/124395585-8d0d0780-dd22-11eb-86fe-3a23d921b608.gif)
-
----
-
 ### Prerequisite :
 Download these files and replace it with the files in this folder "Foodimg2Ing/data/"
 
